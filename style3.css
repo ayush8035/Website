@@ -1,0 +1,89 @@
+body{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-family: "Lora",cursive;
+  background: linear-gradient(to bottom right, #6699ff 0%, #ffffff 100%);
+}
+.entry_div{
+  background-color: #9be3de;
+}
+.title{
+  font-size: 850%;
+  padding: 40px;
+  font-family: "Pangolin",cursive;
+  color: grey;
+}
+.entry_p{
+  font-size: 350%;
+  font-family: "Piedra",cursive;
+
+}
+.entry-p{
+  font-size: 400%;
+  font-family: "Quicksand",cursive;
+  padding: 0 0 50px 0;
+}
+.entry_img{
+  height: 50%;
+  width: 60%
+}
+.intro img{
+  width: 300px;
+  border-radius: 50%
+}
+.love{
+  padding:  20px;
+}
+.love h1{
+  font-size: 500%;
+}
+.love h3{
+  font-size: 400%;
+  font-family: "Pangolin",cursive;
+}
+.love img{
+  width: 350px;
+  border-radius: 70%;
+  float: left;
+  padding: 0 20px 0;
+}
+.love p{
+  font-size: 300%;
+  font-family: "Quicksand",cursive;
+}
+.love2{
+  padding: 150px 50px;
+}
+.love2 h3{
+  font-size: 400%;
+  font-family: "Pangolin",cursive;
+}
+.love2 img{
+  width: 350px;
+  border-radius: 50%;
+  float: right;
+  padding: 0 40px 0;
+}
+.love2 p{
+  font-size: 300%;
+  font-family: "Lora",cursive;
+}
+#get-in-touch{
+  margin: 50px 0 0;
+}
+#get-in-touch h2{
+  font-family: "Lora",cursive;
+  font-size: 300%;
+  padding: 40px 0 0;
+}
+#footer{
+  background: linear-gradient(to bottom right, #3366ff 0%, #99ffcc 100%);
+  font-family: "Piedra",cursive;
+}
+#footer img{
+  width: 60px;
+}
+#footer a{
+  padding: 0 30px 0;
+}
